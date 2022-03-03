@@ -1,0 +1,209 @@
+
+.div-home {
+  display: inline-block;
+}
+
+.div-bir {
+
+  margin-right: 700px;
+  display: inline-block;
+}
+
+.div-ikki {
+  display: inline-block;
+}
+
+.li-bir {
+  margin-right: 30px;
+  display: inline-block;
+}
+
+.li-ikki {
+
+  display: inline-block;
+}
+
+.li-uch {
+margin-left: 30px;
+margin-right: 30px;
+  display: inline-block;
+}
+
+.li-tort {
+
+  display: inline-block;
+}
+
+.li-besh {
+  display: inline-block;
+  margin-left: 30px;
+}
+
+.big-hero {
+  display: inline-block;
+}
+
+.hero {
+  vertical-align: top;
+  margin-right: 700px;
+  display:inline-block;
+  width: 300px;
+}
+
+.div-a {
+  background-color: rgb(64, 132, 196)
+}
+/* .div-null {
+  display: inline-block;
+  width: 33%;
+
+} */
+
+.imgone {
+  display: inline-block;
+  width: 300px;
+  height: 400px;
+}
+
+.div-our {
+  text-align: center;
+}
+
+.item1 {
+  display: inline-block;
+  width: 300px;
+  background-color: grey;
+}
+
+.item2 {
+  display: inline-block;
+  width: 300px;
+  background-color: grey;
+}
+
+.item3 {
+  display: inline-block;
+  width: 300px;
+  background-color: grey;
+}
+
+.item4 {
+  display: inline-block;
+  width: 300px;
+  background-color: grey;
+}
+
+.item5 {
+  display: inline-block;
+  width: 300px;
+  background-color: grey;
+}
+
+.item6 {
+  display: inline-block;
+  width: 300px;
+  background-color: grey;
+}
+
+.img-he {
+  display: inline-block;
+  width: 300px;
+}
+
+.healt-div {
+  display: inline-block;
+  width: 300px;
+  margin-left: 500px;
+}
+
+.apps {
+  display: inline-block;
+  width: 300px;
+  margin-right: 500px;
+}
+
+.img-apps {
+  display: inline-block;
+  width: 300px;
+}
+
+.div-are {
+  background-color: rgb(64, 132, 196);
+}
+
+.div-edward {
+  display: inline-block;
+  width: 300px;
+  margin-right: 300px;
+}
+
+.img-edward {
+
+  display: inline-block;
+  width: 100px;
+}
+.pclass {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.blockimg{
+  display: inline-block;
+  width: 300px;
+}
+
+.div_img1 {
+  display: inline-block;
+  width: 450px;
+}
+
+.div_img2 {
+  display: inline-block;
+  width: 450px;
+}
+
+.div_img3 {
+  display: inline-block;
+  width: 450px;
+}
+
+.last_a {
+  text-align: center;
+  margin: 600px;
+}
+
+.biglast{
+  background-color: rgb(64, 132, 196);
+}
+
+
+.biglast1{
+  display: inline-block;
+  width: 300px;
+  margin-left: 100px;
+}
+.imglast{
+  display: inline-block;
+  width: 150px;
+  height: 30px;
+
+}
+
+.biglast2{
+  display: inline-block;
+  width: 300px;
+}
+
+.biglast3{
+  display: inline-block;
+  width: 300px;
+}
+
+.biglast4{
+  display: inline-block;
+  width: 300px;
+}
+
+ul {
+  list-style-type: none;
+}
